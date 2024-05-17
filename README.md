@@ -1,1 +1,1 @@
-# squashing-pruning
+# Learn GIT
